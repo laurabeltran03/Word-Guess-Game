@@ -1,0 +1,29 @@
+body {
+    
+    background: url("https://i.pinimg.com/564x/2b/12/c7/2b12c7f6bc26bdb96d1c95711a5005a7.jpg") center fixed;
+ 
+    
+  }
+
+  .container {
+   
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 1000px;
+    height: 200px;
+    margin-left: 200px;
+    margin-right: 270px;
+    margin-top: 50px;
+    
+
+  }
+
+  .underscores {
+    background: papayawhip ;
+    height: 60px;
+    padding-top: 15px;
+    
+
+  }
+  
